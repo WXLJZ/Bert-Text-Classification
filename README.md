@@ -6,6 +6,8 @@
 
 ✨ **BERT** - A Transformer-based text classification framework built with PyTorch.  
 📝 *Note: This project is modified from the GitHub open-source repository [BERT-TextClassification](https://github.com/songyingxin/Bert-TextClassification).*
+---
+📚 Multilingual Docs: [English](https://github.com/WXLJZ/Bert-Text-Classification/blob/main/README.md) | [简体中文](https://github.com/WXLJZ/Bert-Text-Classification/blob/main/README_ZH.md)
 
 ---
 
